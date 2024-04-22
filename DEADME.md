@@ -18,4 +18,4 @@
 
 1. Objetivo criar um repositório concluído;
 2. Objetivo clonar um repositório concluído;
-3. objetivo > adicionar qualquer tipo de arquivos dentro de uma pasta concluído; > comitar concluído; > enviar arquivos;
+3. objetivo > adicionar qualquer tipo de arquivos dentro de uma pasta concluído; > comitar concluído; > enviar arquivos concluído;
